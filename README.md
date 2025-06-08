@@ -1,6 +1,7 @@
 # DeepFake-Video-Detection
 
 A deep learning-based system for detecting manipulated and synthetic videos (deepfakes).
+For trained weights email me at gargvinamra21@gmail.com
 
 ## Overview
 
