@@ -10,3 +10,5 @@ This project implements the pipeline to identify artificially generated or manip
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+For a detailed explantion of the project please refer to the <a href="https://github.com/Vinamra-21/DeepFake-Video-Detection/dfd.pdf">dfd.pdf</a> file in the repository
